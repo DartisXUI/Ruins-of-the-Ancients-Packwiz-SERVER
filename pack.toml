@@ -1,0 +1,10 @@
+name = "RotA-SERVER"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "832314059b1271aad29fe9e88c5cb21a799ac5e4b7dbd3db5ae9e15092d027c2"
+
+[versions]
+forge = "14.23.5.2854"
+minecraft = "1.12.2"
