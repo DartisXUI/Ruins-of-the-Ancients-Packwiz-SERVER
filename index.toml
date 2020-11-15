@@ -97,6 +97,10 @@ file = "config/ProjectRedRelocation.cfg"
 hash = "b04d71c3d372057861eb3b827333df53ad3a6c14c5405107f0265a10e746a804"
 
 [[files]]
+file = "config/SGCraft/pdd.yml"
+hash = "c6a0e99235d9d107f76ac92852deb0dd620ba695b88bdc45978e2a6fb514750d"
+
+[[files]]
 file = "config/TComplementModules.cfg"
 hash = "bebe0576397d917ec2dd0fa709e117cc7783c7638296d8314f5873908cfbd3ab"
 
