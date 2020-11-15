@@ -4,7 +4,7 @@
 //Don't touch me!
 //#Add
 recipes.addShapeless(<appliedenergistics2:material>, [<orecore:quartz>]);
-recipes.addShapeless(<appliedenergistics2:quartz_ore>, [<orecore:quartz_ore>);
+recipes.addShapeless(<appliedenergistics2:quartz_ore>, [<orecore:quartz_ore>]);
 recipes.addShapeless(<ic2:resource:4>, [<lucraftcore:ore_uranium>]);
 recipes.addShapeless(<lucraftcore:ore_uranium>, [<orecore:uranium_ore>]);
 recipes.addShapeless(<thermalfoundation:ore:1>, [<orecore:tin_ore>]);
