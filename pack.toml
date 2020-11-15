@@ -3,7 +3,7 @@ name = "RotA-SERVER"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "54becac8f338122dcd06050ca48bb7d9af23fcb5455e46ddf51101fb205a4895"
+hash = "8a953eba2d8c0b18aed092bf2299fda8da7b6fe4ff53234cb067bd15f0f06711"
 
 [versions]
 forge = "14.23.5.2854"
