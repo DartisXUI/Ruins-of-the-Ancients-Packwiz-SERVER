@@ -1136,7 +1136,7 @@ metafile = true
 
 [[files]]
 file = "mods/additional-lights.toml"
-hash = "f46bc720591a1e228a53feeb7728330f932060a977cc65ca316801d0fea43d73"
+hash = "60bda3ae33fcb8a8e2b962e7ecb2a6864c1557cad26c363c847f5ec5099204b4"
 metafile = true
 
 [[files]]
