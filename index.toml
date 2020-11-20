@@ -1360,11 +1360,6 @@ hash = "e4e97ef5366c14588c3793c5a61b67250a9a3260c4032f4415e53090de5cf17d"
 metafile = true
 
 [[files]]
-file = "mods/extracells2.toml"
-hash = "152b08cf8b19eaae6f174a29364ee2e66b0e8c6defbc9173ee620580905cb881"
-metafile = true
-
-[[files]]
 file = "mods/fast-leaf-decay.toml"
 hash = "8239fcc9487edacf660e8a72b2fb9b9a2757c77df232a0ff409e5a8d9dadcc77"
 metafile = true
