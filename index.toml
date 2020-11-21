@@ -1180,11 +1180,6 @@ hash = "25fb5b33d8c33a5ef34c7e9190d523445f34ac4134398092f1e3a8081e0201d1"
 metafile = true
 
 [[files]]
-file = "mods/atum.toml"
-hash = "b3018bad9f4eef50200ebdef75087aeefc8fd7c3453737f8388314a55d92412a"
-metafile = true
-
-[[files]]
 file = "mods/autoreglib.toml"
 hash = "4e444b7a69c2b68ae168caed1a4d345bfa96cfe8671c6206895698cd93c5167e"
 metafile = true
@@ -1732,11 +1727,6 @@ metafile = true
 [[files]]
 file = "mods/tesla-core-lib.toml"
 hash = "409f0661dbfc7ab38b36715daaa26cb0d7d31c7634715dfa4e077f201ef5d54f"
-metafile = true
-
-[[files]]
-file = "mods/tesseract.toml"
-hash = "f7389bab7ae54e31cc8b4a376b5c9ef528794128f33fc63e410bbe46c27f03db"
 metafile = true
 
 [[files]]
