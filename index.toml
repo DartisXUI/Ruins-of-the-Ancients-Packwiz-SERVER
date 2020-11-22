@@ -101,10 +101,6 @@ file = "config/SGCraft/pdd.yml"
 hash = "c6a0e99235d9d107f76ac92852deb0dd620ba695b88bdc45978e2a6fb514750d"
 
 [[files]]
-file = "config/TComplementModules.cfg"
-hash = "bebe0576397d917ec2dd0fa709e117cc7783c7638296d8314f5873908cfbd3ab"
-
-[[files]]
 file = "config/ThermalTinkering/config.cfg"
 hash = "fb1f57b06710acc0093c030609a1b91a58c4e2b56831678e18bc2c679707b23e"
 
@@ -1045,10 +1041,6 @@ file = "config/splash.properties"
 hash = "18fd499c16011214c8c320a54c0fb113bdeae47aa74d32c248457938bd08afb2"
 
 [[files]]
-file = "config/tcomplement.cfg"
-hash = "912b14c6a8b76b7aee8eab599ff8e1b0c0c3c28a187bc37a5986c8a5f6566c2a"
-
-[[files]]
 file = "config/tconstruct.cfg"
 hash = "6d57d986daefd5e3517a356e4a710bc08a813194db39955286e57db0e4f185e9"
 
@@ -1131,12 +1123,12 @@ metafile = true
 
 [[files]]
 file = "mods/actually-additions.toml"
-hash = "93ae689c922329e679854659f8385a90e425ff9fadf09b13a3b96d2ea9cd7402"
+hash = "cba943d0cdd071da84505dff0e901bdafc9733416194332cee8eb986ce934abb"
 metafile = true
 
 [[files]]
 file = "mods/additional-lights.toml"
-hash = "60bda3ae33fcb8a8e2b962e7ecb2a6864c1557cad26c363c847f5ec5099204b4"
+hash = "f46bc720591a1e228a53feeb7728330f932060a977cc65ca316801d0fea43d73"
 metafile = true
 
 [[files]]
@@ -1235,11 +1227,6 @@ hash = "900bb218406480dc270fe0f42f1f0e66c52ae5a85d8934c404d10ce64e803354"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked.toml"
-hash = "3f1c26109b342f51f7a583bc9f100380934288de2293ba4c25feedc805b34096"
-metafile = true
-
-[[files]]
 file = "mods/chisel.toml"
 hash = "52435fe963476b68456801103ac73a53d31de8af03df7d3c1fc069c88dda9627"
 metafile = true
@@ -1257,11 +1244,6 @@ metafile = true
 [[files]]
 file = "mods/cofh-world.toml"
 hash = "addeba42e92d45f278fa79b94f3b359b5f9ce69eee7438ef7480aa3764bda0e1"
-metafile = true
-
-[[files]]
-file = "mods/colored-lights.toml"
-hash = "c1cb69ea1fe4896899df5c7cfcd14422ee15fbdc3dee872dedbacdaa84980d84"
 metafile = true
 
 [[files]]
@@ -1326,12 +1308,12 @@ metafile = true
 
 [[files]]
 file = "mods/enchanting-plus.toml"
-hash = "f1e43fb577ba10120291ac41de673f645274685d725594ff5da8c8a97dcf25ef"
+hash = "95efbdebf022b9358e8d8018d85d4282c9bb65f00aae5a1ee222bd1f8dcb0250"
 metafile = true
 
 [[files]]
 file = "mods/ender-io.toml"
-hash = "1740501b1a5bb50cb3a87adb11d9d8fd33816f153855d22436ab851d6b99db6f"
+hash = "0b5f74715cc34efeb9c8112c736df8d3db013413cccf2b5973328a3e5365bb69"
 metafile = true
 
 [[files]]
@@ -1406,7 +1388,7 @@ metafile = true
 
 [[files]]
 file = "mods/hunting-dimension.toml"
-hash = "53a3f6f48bc74f9557a021514f8f852d888c6e50db52448b66643b8d50485cde"
+hash = "921bae36b14c9550f43d5c71dbea1996758847ff5acb69f388d97457b042edc3"
 metafile = true
 
 [[files]]
@@ -1431,12 +1413,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tweaks.toml"
-hash = "085c60da6895469f92cf5c1785269236261c61f7b01f9fd2a262f4a858a9b639"
-metafile = true
-
-[[files]]
-file = "mods/invisiblights.toml"
-hash = "763cc1363cda465f505d29915b045af5127c4f0a72119367046cab04423df115"
+hash = "d683929fb11eb223d1fa0e3dbfed21fe735ae1bd5a1d2a2f9273cbfead4a7f7c"
 metafile = true
 
 [[files]]
@@ -1516,7 +1493,7 @@ metafile = true
 
 [[files]]
 file = "mods/moving-elevators.toml"
-hash = "e69cb44cd02fe1cbf2c7dad67bc5cc0509eba9caabfe470c7d7411211462284d"
+hash = "2352012da01587195f41b6ea0edcfd070afb3b05f4a62615399f522b3f4502b0"
 metafile = true
 
 [[files]]
@@ -1721,7 +1698,7 @@ metafile = true
 
 [[files]]
 file = "mods/super-factory-manager.toml"
-hash = "f4bef5f36cf2a8ec31876ed6785580e0ea86cde4e3970f2ecdd65fe024d19471"
+hash = "1db63bc2298132529f86727c1a0b57a9356b5d7294211b2fcb0f1cf95cccf992"
 metafile = true
 
 [[files]]
@@ -1760,11 +1737,6 @@ hash = "a1d146a403f6ef65e20493d9cc8fcac688fd1df8389b7e1682916cdcc6b204a0"
 metafile = true
 
 [[files]]
-file = "mods/tinkers-complement.toml"
-hash = "05454992d0aaa7c2b6812dd220dd62efd6b1cec6f2deed939e15a1b3edc3de9a"
-metafile = true
-
-[[files]]
 file = "mods/tinkers-construct.toml"
 hash = "114d598bc70613705e28c91683c19a0f81b054ba4a36b096a799e44fc2771374"
 metafile = true
@@ -1796,7 +1768,7 @@ metafile = true
 
 [[files]]
 file = "mods/unidict.toml"
-hash = "750c86db5797385533619d2fa26da9dff538f7a3d367be03b8d6fb64eb0cd199"
+hash = "ec6b7481266e7d6abc3c9a924919b1dafe6f0521e5b741cf19589b54230d7fff"
 metafile = true
 
 [[files]]
@@ -1806,7 +1778,7 @@ metafile = true
 
 [[files]]
 file = "mods/wanionlib.toml"
-hash = "fceec942cbc92493c360643196c43e38fb01af0a3773ec12163e3adc049cce5c"
+hash = "49558b0f4c457a39cc7fa96b6de8ae5bde1254bc0abe54ccf7c8a4335bab2d65"
 metafile = true
 
 [[files]]
