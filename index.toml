@@ -1256,11 +1256,6 @@ hash = "2a58eb247d4f9ff7de6bee2f81d072338fd0b96803294bf887696e81815e68eb"
 metafile = true
 
 [[files]]
-file = "mods/controlling.toml"
-hash = "9e95e85e1901f88818d6c18d82d68ea4342206979ad861f884299e241ad4b195"
-metafile = true
-
-[[files]]
 file = "mods/cooking-for-blockheads.toml"
 hash = "43fce4a945472b03284a0c8559d7215775d81a2dc2c01d711ec9a1825232eca7"
 metafile = true
@@ -1416,11 +1411,6 @@ hash = "085c60da6895469f92cf5c1785269236261c61f7b01f9fd2a262f4a858a9b639"
 metafile = true
 
 [[files]]
-file = "mods/jei-integration.toml"
-hash = "5d1f363d9a6daed54fd0d8b30a5951f4d63ecba4e3617a5e442b87d535f42130"
-metafile = true
-
-[[files]]
 file = "mods/jei.toml"
 hash = "a13e7ffb803c1864cbb515a5511300f2a70c0f344455b0e501c59fe1225baa27"
 metafile = true
@@ -1438,11 +1428,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-energistics-jee.toml"
 hash = "958da46604aa6684011165a5f9ecda6a9d6a503853ed762bf783ff5d370ef40c"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.toml"
-hash = "763a688ee77550d2405ef3af861598059fa6b5dfd2f2cb2df6c405953363cee5"
 metafile = true
 
 [[files]]
@@ -1483,11 +1468,6 @@ metafile = true
 [[files]]
 file = "mods/mod-name-tooltip.toml"
 hash = "ada354d23031dc6f90da2e792efcacc7fbfb5d7e0be712e5085355c7f9c18a58"
-metafile = true
-
-[[files]]
-file = "mods/more-overlays.toml"
-hash = "7f916424670df861b8e52c219d2b6d7709121561400529fb5586804bb8156006"
 metafile = true
 
 [[files]]
