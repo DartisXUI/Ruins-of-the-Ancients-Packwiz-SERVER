@@ -1211,11 +1211,6 @@ hash = "87a5570c7a9399f2f277530eb7fe7b13a3633dcd8c2821628ef8581554ec0af1"
 metafile = true
 
 [[files]]
-file = "mods/blockcraftery.toml"
-hash = "7714a383458bb0e07dcaecd0e1e8ee6dba84695a35d8ca1fde2fc1395233b1cd"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.toml"
 hash = "7c7d4da458ab082669f11975bad5fda167877dbabf8775eef22a8e230424831a"
 metafile = true
@@ -1516,11 +1511,6 @@ hash = "9b44cf7f65fa3caf7a7760e8736f2b560cccf36593cd0f46f5e00d040164aaa0"
 metafile = true
 
 [[files]]
-file = "mods/mysticallib.toml"
-hash = "48bc421d0f7b2dfb2a336d344f471499ba391041fb8121a760cf61cca214acaf"
-metafile = true
-
-[[files]]
 file = "mods/natura.toml"
 hash = "8d28e00965fc4d93759c552d6c261108ea8f38dd5c18a0cc766465c9439c1030"
 metafile = true
@@ -1793,11 +1783,6 @@ metafile = true
 [[files]]
 file = "mods/wireless-crafting-terminal.toml"
 hash = "30c41ad809cc3fd695a2377ad9fdf7ee313bcc1350cb3b987a4abf0f845ba343"
-metafile = true
-
-[[files]]
-file = "mods/wireless-redstone-cbe.toml"
-hash = "9eaeac9076792db84d2eaeb0205463e3e50619d8b5d78bc2f0b0b4adf08281a1"
 metafile = true
 
 [[files]]
