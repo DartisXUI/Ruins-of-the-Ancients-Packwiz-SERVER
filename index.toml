@@ -769,10 +769,6 @@ file = "config/littletiles.json"
 hash = "2c9c5c367694027d6e2bee4da08e0ed4d61fcc1fce1370834714cadd46ec007f"
 
 [[files]]
-file = "config/lucraftcore.cfg"
-hash = "d3f9eba29cd99b84467bc379b64f922c41f3576d407d77b171606d8e820c16e1"
-
-[[files]]
 file = "config/malisiscore.cfg"
 hash = "ec763215ac6cb1f46bc699783a6df6929484d8686368a3db44f7bcf8c395b2ec"
 
@@ -1479,11 +1475,6 @@ metafile = true
 [[files]]
 file = "mods/littletiles.toml"
 hash = "95b57f943838f31a9a9c550d2c27c20803ea6d732590025e36688c19c64a94ad"
-metafile = true
-
-[[files]]
-file = "mods/lucraft-core.toml"
-hash = "e5914feb065f72f027e1fefac0d8fbd184f23eb3e6d6d0260cf28e76ab5d76e8"
 metafile = true
 
 [[files]]
