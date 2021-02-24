@@ -490,6 +490,11 @@ hash = "5bdc0e714fd18f13652105f78185122ba5567bb5b6dd23b136c78a80e9034464"
 metafile = true
 
 [[files]]
+file = "mods/external-tweaker.toml"
+hash = "9bdcfee44102b4ebccb7f66edd300f2f32e96412a094940248d819ae224ee8d2"
+metafile = true
+
+[[files]]
 file = "mods/extra-utilities.toml"
 hash = "e4e97ef5366c14588c3793c5a61b67250a9a3260c4032f4415e53090de5cf17d"
 metafile = true

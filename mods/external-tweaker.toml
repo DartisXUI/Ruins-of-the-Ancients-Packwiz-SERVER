@@ -1,0 +1,14 @@
+name = "External Tweaker"
+filename = "externaltweaker-1.12-0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2452/858/externaltweaker-1.12-0.3.jar"
+hash-format = "murmur2"
+hash = "3121577869"
+
+[update]
+[update.curseforge]
+file-id = 2452858
+project-id = 270558
+release-channel = "beta"
