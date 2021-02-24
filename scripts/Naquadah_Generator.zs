@@ -5,7 +5,7 @@ extrautilities2.Tweaker.IMachineRegistry.createNewGenerator(
 	10000,
 	<sgcraft:naquadah>,
 	<minecraft:coal>,
-	<extrautilities2.Tweaker.IMachineRegistry.generator_survivalist;>,
-	<extrautilities2.Tweaker.IMachineRegistry.generator_survivalist;>,
+	<extrautils2:machine/generator>,
+	<extrautils2:machine/generator_on>,
 	#add8e6
 );
