@@ -980,7 +980,7 @@ hash = "56a8f43671d97e2554327eec3c17bc6a6b9c1d8434b7ea7414514bf6dc9fb37a"
 
 [[files]]
 file = "scripts/Naquadah_Generator.zs"
-hash = "fb1205eabec29cc486b2874ccda6fbdcdce94996e8966e9c7ab53359e59fe074"
+hash = "d19466f221e98ea7fe265c87de110f0649d8bd086641d9660c47fbcc5fee683c"
 
 [[files]]
 file = "scripts/recipes.zs"
